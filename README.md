@@ -1,0 +1,1 @@
+This is a simple library manager c++ program which has functionalities to add book information,retrieve book information,handling information about issuing of book to members of the library,nd also handles return of books.This was a project for my second semester IS programming class.
